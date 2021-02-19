@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <QuotesReceiverConfig>
+        <WorkDelayMs>1000</WorkDelayMs>
+    </QuotesReceiverConfig>
+    <UdpConfig>
+        <IpAddress>235.5.5.11</IpAddress>
+        <Port>8001</Port>
+    </UdpConfig>   
+</configuration>
